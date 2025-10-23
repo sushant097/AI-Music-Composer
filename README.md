@@ -22,7 +22,8 @@ You can run it locally, inside Docker, or deploy it on **GKE (Google Kubernetes 
 
 ## 🪄 Demo
 
-![](docs/demo/DemoVideo.mov)
+[![Watch the Demo](https://img.youtube.com/vi/7dm5tY_BaVU/hqdefault.jpg)](https://youtube.com/shorts/7dm5tY_BaVU)
+
 
 ---
 
