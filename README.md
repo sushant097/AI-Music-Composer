@@ -22,6 +22,7 @@ You can run it locally, inside Docker, or deploy it on **GKE (Google Kubernetes 
 
 ## 🪄 Demo
 
+![](docs/demo/DemoVideo.mov)
 
 ---
 
